@@ -1,5 +1,5 @@
 # CloudDetection-MODIS
-Gaurav Krishnan, Pranshu Chaturvedi, Rohan Prasad, Rutu Patel, Shashank Mahesh, Steven Zheng, Vaibhav Gupta
+Gaurav Krishnan, Pranshu Chaturvedi, Rohan Prasad, Rutu Patel, Shashank Mahesh, Steven Zheng
 NCSA Nvidia Hackathon III
 
 Our Model aims to implement binary classification on specific pixels contained in the MODIS Cloud Dataset to determine the existence of a cloud. Criteria such as band, cloud certainty, and pixel orientation were all considered in creating a suitable dataset for our model. 
