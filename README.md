@@ -12,11 +12,11 @@ Our Model aims to implement binary classification on specific pixels contained i
   - Performs dimensionality reduction on dataset in order to convert 4d tuple to 2d dataframe
   - Runs model on desired bands
   - Accuracy:  
-    - KNN (n=6) = 92.847%
+    - KNN (n=6) = 93.7%
     - SVM = 85.5%
     - Logistic Regression with 3 features = 93.102%
     - Logistic Regression with all features = 95.2% (Possible overfitting)
-    - Logistic Regression with pre-determined suitable features = 94.46%
+    - Logistic Regression with pre-determined suitable features = 95.7%
         
 
 
